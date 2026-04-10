@@ -83,7 +83,7 @@ Looking to collaborate on:
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
 </p>
 
 ### 🤖 AI / ML
