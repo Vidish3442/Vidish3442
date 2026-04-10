@@ -135,17 +135,16 @@ Looking to collaborate on:
 - 📢 Presented at **SNU Summit 2025**
 - 🧪 Presented at **International Conference**
 - 💻 Active GitHub contributor  
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vidish3442&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidish3442&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidish3442&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidish3442&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -153,7 +152,7 @@ Looking to collaborate on:
 # 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Vidish3442&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Vidish3442&theme=tokyonight" />
 </p>
 
 ---
@@ -161,7 +160,7 @@ Looking to collaborate on:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidish3442&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidish3442&theme=tokyo-night" />
 </p>
 
 ---
@@ -169,7 +168,7 @@ Looking to collaborate on:
 # 🐍 Contribution Snake (3D Animation)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vidish3442/Vidish3442/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Vidish3442/Vidish3442/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -177,7 +176,7 @@ Looking to collaborate on:
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vidish3442&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vidish3442&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
