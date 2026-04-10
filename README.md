@@ -173,14 +173,6 @@ Looking to collaborate on:
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidish3442&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
 # ⚡ Quote
 
 > "I develop intelligent systems that bridge the gap between data and real-world impact."
