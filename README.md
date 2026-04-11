@@ -165,7 +165,7 @@ Looking to collaborate on:
 
 ---
 
-# 🐍 Contribution Snake (3D Animation)
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vidish3442/Vidish3442/output/github-contribution-grid-snake.svg" />
