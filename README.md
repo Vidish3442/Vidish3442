@@ -78,53 +78,88 @@ Looking to collaborate on:
 </p>
 
 ---
-
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming & Core
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,sql" />
 </p>
 
-### 🤖 AI / ML
+- Strong in **Python** for AI/ML pipelines and backend systems  
+- Solid foundation in **Data Structures & Algorithms (300+ problems)**  
+- Experience with **SQL** for data querying and transformation  
+
+---
+
+### 🤖 AI / ML & Deep Learning
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### 🌐 Tools & Backend
+- Machine Learning, Deep Learning, Computer Vision  
+- CNNs for image classification (APTOS dataset project)  
+- Model training, evaluation, and optimization  
+- Data preprocessing & augmentation techniques  
+
+---
+
+### 🧠 LLM & Generative AI
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LLM-based application development (chatbots, stock screener)  
+- Prompt engineering & response optimization  
+- Natural Language Processing (NLP)  
+- Context handling & session management  
+- Building end-to-end AI systems with APIs  
+
+---
+
+### 🌐 Backend, Data & APIs
 <p>
 <img src="https://skillicons.dev/icons?i=flask,mysql" />
 </p>
 
+- Backend development using **Flask & Streamlit**  
+- REST API integration (OpenRouter, Hugging Face)  
+- Database management using **MySQL**  
+- Real-time data processing & pipeline design  
+
 ---
 
+### 🛠 Tools & Ecosystem
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Version control using **Git & GitHub**  
+- Model deployment using **Streamlit**  
+- Data handling using **pandas, numpy**  
 # 🚀 Featured Projects
-
-## 📈 Stock Analysis System
-- Real-time stock data processing  
-- Trend detection using moving averages  
-- Optimized for high-speed analysis  
-
 ---
 
 ## 🩺 Diabetic Retinopathy Detection
-- Multi-class CNN model  
-- Achieved **86% accuracy**  
-- Applied preprocessing & augmentation  
+- Developed a **multi-class CNN model** using TensorFlow/Keras on the APTOS dataset  
+- Achieved **76% accuracy** with optimized training and tuning  
+- Applied **image preprocessing, augmentation, and normalization** to improve robustness  
+- Focused on **medical image classification and model interpretability**
 
 ---
 
 ## 🤖 AI Stock Screener (LLM)
-- Natural language → structured queries  
-- Built with Streamlit + APIs + SQL  
-- Real-time insights  
+- Built an **LLM-powered system** to convert natural language queries into structured financial filters  
+- Integrated **Streamlit + OpenRouter API + SQL** for end-to-end functionality  
+- Enabled **real-time query processing and data-driven insights**  
+- Designed as a **practical AI application for financial analysis**
 
 ---
 
 ## 🧠 ManoSakhi Chatbot
-- LLM-powered chatbot  
-- Context-aware responses  
-- Safe interaction design  
+- Developed an **LLM-based mental health chatbot** using Hugging Face + Streamlit  
+- Implemented **context-aware responses and session management**  
+- Designed **safe interaction mechanisms** for sensitive conversations  
+- Focused on **NLP + responsible AI system design**
 
 ---
 
@@ -132,22 +167,10 @@ Looking to collaborate on:
 
 - 🧠 Solved **300+ DSA problems**
 - 🤖 Built **multiple AI/ML systems**
-- 📢 Presented at **SNU Summit 2025**
-- 🧪 Presented at **International Conference**
+- 📢 Presented at **SNU Summit 2025** and **International Conference**
 - 💻 Active GitHub contributor  
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidish3442&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidish3442&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
 
 # 🔥 Streak Stats
 
